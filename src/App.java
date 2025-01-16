@@ -47,7 +47,8 @@ public class App {
 
                 }
                 
-                System.out.println("Course located.");
+                System.out.println(course + " course located.");
+                System.out.println("Add or Edit grades for " + course + "? (Add/Edit): ");
                 
             }
 
